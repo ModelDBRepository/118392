@@ -1,9 +1,8 @@
-<html><pre>
-This is the readme for the models associated with the paper
+# This is the readme for the models associated with the paper
 
 Varkonyi PL, Kiemel T, Hoffman K, Cohen AH, Holmes P, On the
 derivation and tuning of phase oscillator models for lamprey central
-pattern generators, J. Computational Neuroscience, 2008 25:245-61
+pattern generators, *J. Computational Neuroscience*, 2008 25:245-61
 
 This is a collection of matlab-based simulations that provide several
 figures of the paper. In this paper, we derive phase oscillator models
@@ -17,8 +16,10 @@ For example:
 Running FIG_2_6_7 produces Figures 2, 6, and 7 after about 12 minutes
 on a 3.2 GHz 2GB Xeon. Figure 6 for example will look like:
 
-<img src="screenshot.jpg" alt="screenshot">
+![screenshot](screenshot.jpg)
 
 The model files were contributed by Peter Varkonyi.
 
-<pre/><html/>
+---
+
+2025-06-02: Converted README to Markdown.
